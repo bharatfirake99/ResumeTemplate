@@ -1,0 +1,4 @@
+[build]
+base = ""
+publish = "./"  # This should point to the directory containing your HTML and CSS files
+command = ""    # If you have any build scripts, specify them here
